@@ -1,0 +1,294 @@
+{
+  "title": "DEVOPS ENGINEER",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "PRODUCT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "automated acceptance testing - Rational Robot",
+                  "id": 20
+                }
+              }
+            },
+            "2": {
+              "title": "understanding product needs",
+              "id": 14
+            },
+            "3": {
+              "title": "reacting to incidents",
+              "id": 15
+            },
+            "4": {
+              "title": "awareness of end-of-life",
+              "id": 16
+            },
+            "5": {
+              "title": "escalating problems to others if necessary",
+              "id": 17
+            },
+            "6": {
+              "title": "understanding customer needs",
+              "id": 18
+            },
+            "7": {
+              "title": "launch strategies",
+              "id": 19
+            },
+            "8": {
+              "title": "acceptance testing",
+              "id": 21
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "2": {
+      "title": "PROJECT",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
+            },
+            "2": {
+              "title": "time management",
+              "id": 22
+            },
+            "3": {
+              "title": "communication",
+              "id": 23
+            },
+            "4": {
+              "title": "managing pipeline of work",
+              "id": 24
+            },
+            "5": {
+              "title": "stand-ups",
+              "id": 25
+            },
+            "6": {
+              "title": "agile processes",
+              "id": 26
+            },
+            "7": {
+              "title": "deployment QA",
+              "id": 27
+            },
+            "8": {
+              "title": "estimation",
+              "id": 28
+            },
+            "9": {
+              "title": "keeping up to date on project progress",
+              "id": 29
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "-1": {
+      "title": "SPECIALISM",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "continuous deployment",
+                  "id": 41
+                },
+                "2": {
+                  "title": "coding skills",
+                  "id": 42
+                },
+                "3": {
+                  "title": "investigate tools that automate the fixing of issues",
+                  "id": 43
+                }
+              }
+            },
+            "2": {
+              "title": "automation (Ansible)",
+              "id": 30
+            },
+            "3": {
+              "title": "Provisioning",
+              "id": 31
+            },
+            "4": {
+              "title": "Linux",
+              "id": 32
+            },
+            "5": {
+              "title": "Backups",
+              "id": 33
+            },
+            "6": {
+              "title": "Stability",
+              "id": 34
+            },
+            "7": {
+              "title": "performance testing of sites, load testing",
+              "id": 35
+            },
+            "8": {
+              "title": "different configs available",
+              "id": 36
+            },
+            "9": {
+              "title": "security",
+              "id": 37
+            },
+            "10": {
+              "title": "upgrades",
+              "id": 38
+            },
+            "11": {
+              "title": "monitoring",
+              "id": 39
+            },
+            "12": {
+              "title": "links between cloud and internal",
+              "id": 40
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-2": {
+      "title": "LEADERSHIP",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 13,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "communicating with others in similar fields externally",
+                  "id": 50
+                },
+                "2": {
+                  "title": "strategies to mitigate risks",
+                  "id": 51
+                }
+              }
+            },
+            "2": {
+              "title": "training others in deployment",
+              "id": 44
+            },
+            "3": {
+              "title": "taking a lead on tools",
+              "id": 45
+            },
+            "4": {
+              "title": "arguing points clearly",
+              "id": 46
+            },
+            "5": {
+              "title": "making infrastructure decisions",
+              "id": 47
+            },
+            "6": {
+              "title": "establishing standards",
+              "id": 48
+            },
+            "7": {
+              "title": "providing effective documentation on tasks for others",
+              "id": 49
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  }
+}
