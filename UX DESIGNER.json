@@ -1,0 +1,322 @@
+{
+  "title": "UX DESIGNER",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "PRODUCT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "awareness of competition & trends",
+                  "id": 40
+                }
+              }
+            },
+            "2": {
+              "title": "impact awareness + management",
+              "id": 35
+            },
+            "3": {
+              "title": "user awareness",
+              "id": 36
+            },
+            "4": {
+              "title": "feedback gathering",
+              "id": 37
+            },
+            "5": {
+              "title": "business awareness",
+              "id": 38
+            },
+            "6": {
+              "title": "brand management",
+              "id": 39
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "2": {
+      "title": "PROJECT",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
+            },
+            "2": {
+              "title": "wireframes",
+              "id": 41
+            },
+            "3": {
+              "title": "understanding requirements",
+              "id": 42
+            },
+            "4": {
+              "title": "time management + self preservation",
+              "id": 43
+            },
+            "5": {
+              "title": "communication skills",
+              "id": 44
+            },
+            "6": {
+              "title": "generating ideas",
+              "id": 45
+            },
+            "7": {
+              "title": "facilitation + ideation",
+              "id": 46
+            },
+            "8": {
+              "title": "time & effort estimation",
+              "id": 47
+            },
+            "9": {
+              "title": "iterative design & design sprints",
+              "id": 48
+            },
+            "10": {
+              "title": "adaptability, flexibility",
+              "id": 49
+            },
+            "11": {
+              "title": "quality control / mgmt",
+              "id": 50
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "-1": {
+      "title": "SPECIALISM",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "technical and software expertise",
+                  "id": 29
+                },
+                "2": {
+                  "title": "atomic design",
+                  "id": 30
+                },
+                "3": {
+                  "title": "front-end development skills",
+                  "id": 31
+                },
+                "4": {
+                  "title": "co-working session for naming convention",
+                  "id": 32
+                },
+                "5": {
+                  "title": "agile integration",
+                  "id": 33
+                },
+                "6": {
+                  "title": "process & productivity improvement",
+                  "id": 34
+                },
+                "7": {
+                  "title": "continuous improvement",
+                  "id": 58
+                }
+              }
+            },
+            "2": {
+              "title": "user research",
+              "id": 14
+            },
+            "3": {
+              "title": "interaction design",
+              "id": 15
+            },
+            "4": {
+              "title": "graphic design",
+              "id": 16
+            },
+            "5": {
+              "title": "benchmarks",
+              "id": 17
+            },
+            "6": {
+              "title": "interviews",
+              "id": 18
+            },
+            "7": {
+              "title": "user observations",
+              "id": 19
+            },
+            "8": {
+              "title": "user testing",
+              "id": 20
+            },
+            "9": {
+              "title": "analytics",
+              "id": 21
+            },
+            "10": {
+              "title": "wireframes",
+              "id": 22
+            },
+            "11": {
+              "title": "interactive prototypes",
+              "id": 23
+            },
+            "12": {
+              "title": "style guides",
+              "id": 24
+            },
+            "13": {
+              "title": "mock-ups",
+              "id": 25
+            },
+            "14": {
+              "title": "branding",
+              "id": 26
+            },
+            "15": {
+              "title": "iconography",
+              "id": 27
+            },
+            "16": {
+              "title": "technical awareness",
+              "id": 28
+            },
+            "17": {
+              "title": "paper prototyping & co-creation session",
+              "id": 57
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-2": {
+      "title": "LEADERSHIP",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 13,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "gain credibility",
+                  "id": 55
+                },
+                "2": {
+                  "title": "empathy",
+                  "id": 56
+                }
+              }
+            },
+            "2": {
+              "title": "escalation",
+              "id": 51
+            },
+            "3": {
+              "title": "customer relations + management",
+              "id": 52
+            },
+            "4": {
+              "title": "UX evangelist",
+              "id": 53
+            },
+            "5": {
+              "title": "convincing + influencing + defending",
+              "id": 54
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  }
+}
