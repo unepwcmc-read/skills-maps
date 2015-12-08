@@ -1,0 +1,441 @@
+{
+  "title": "SOFTWARE DEVELOPER",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "PRODUCT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 43,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "collecting metrics",
+                  "id": 54
+                },
+                "2": {
+                  "title": "demo / sales pitch",
+                  "id": 55
+                },
+                "3": {
+                  "title": "sales / marketing",
+                  "id": 56
+                },
+                "4": {
+                  "title": "SEO",
+                  "id": 57
+                }
+              }
+            },
+            "2": {
+              "title": "acceptance",
+              "id": 48
+            },
+            "3": {
+              "title": "awareness of technologies",
+              "id": 49
+            },
+            "4": {
+              "title": "understanding user flow",
+              "id": 50
+            },
+            "5": {
+              "title": "understanding requirements",
+              "id": 51
+            },
+            "6": {
+              "title": "writing skills",
+              "id": 52
+            },
+            "7": {
+              "title": "plan vision / product design",
+              "id": 58
+            },
+            "8": {
+              "title": "feature validation",
+              "id": 59
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "2": {
+      "title": "PROJECT",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 46,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "pragmatic coding",
+                  "id": 73
+                },
+                "2": {
+                  "title": "new project brainstorming",
+                  "id": 74
+                },
+                "3": {
+                  "title": "kanban",
+                  "id": 75
+                }
+              }
+            },
+            "2": {
+              "title": "conventions / tools for better / faster dev",
+              "id": 60
+            },
+            "3": {
+              "title": "managing workload",
+              "id": 62
+            },
+            "4": {
+              "title": "workflow management",
+              "id": 63
+            },
+            "5": {
+              "title": "feedback loop",
+              "id": 64
+            },
+            "6": {
+              "title": "amount of work estimation",
+              "id": 65
+            },
+            "7": {
+              "title": "defining done",
+              "id": 66
+            },
+            "8": {
+              "title": "visibility of progress",
+              "id": 67
+            },
+            "9": {
+              "title": "stand-ups",
+              "id": 68
+            },
+            "10": {
+              "title": "code reviews",
+              "id": 69
+            },
+            "11": {
+              "title": "pair programming",
+              "id": 70
+            },
+            "12": {
+              "title": "documentation",
+              "id": 71
+            },
+            "13": {
+              "title": "task focus",
+              "id": 72
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "-1": {
+      "title": "SPECIALISM",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 6,
+          "ideas": {
+            "2": {
+              "title": "security",
+              "id": 10
+            },
+            "3": {
+              "title": "UX awareness",
+              "id": 11
+            },
+            "4": {
+              "title": "DB design",
+              "id": 12
+            },
+            "5": {
+              "title": "GIS",
+              "id": 13,
+              "ideas": {}
+            },
+            "6": {
+              "title": "ruby",
+              "id": 15
+            },
+            "7": {
+              "title": "GIT",
+              "id": 16
+            },
+            "8": {
+              "title": "HTML",
+              "id": 17
+            },
+            "9": {
+              "title": "CSS",
+              "id": 18
+            },
+            "10": {
+              "title": "JS",
+              "id": 19
+            },
+            "12": {
+              "title": "writing tests",
+              "id": 21
+            },
+            "13": {
+              "title": "clean code",
+              "id": 22
+            },
+            "14": {
+              "title": "presentation",
+              "id": 23
+            },
+            "15": {
+              "title": "defensive coding",
+              "id": 24
+            },
+            "16": {
+              "title": "postgres",
+              "id": 25
+            },
+            "17": {
+              "title": "TDD",
+              "id": 34
+            },
+            "18": {
+              "title": "debugging",
+              "id": 35
+            },
+            "19": {
+              "title": "optimisation",
+              "id": 37
+            },
+            "20": {
+              "title": "refactoring",
+              "id": 38
+            },
+            "21": {
+              "title": "object oriented design",
+              "id": 39
+            },
+            "22": {
+              "title": "informatics hour",
+              "id": 41
+            },
+            "23": {
+              "title": "consistent design patterns",
+              "id": 53
+            },
+            "24": {
+              "title": "front-end architecture",
+              "id": 61
+            },
+            "10.5": {
+              "title": "JS frameworks",
+              "id": 26,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5.5": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "not just web development",
+                  "id": 28
+                },
+                "2": {
+                  "title": "functional programming",
+                  "id": 29
+                },
+                "3": {
+                  "title": "microservices",
+                  "id": 30
+                },
+                "4": {
+                  "title": "advanced postgres",
+                  "id": 31
+                },
+                "5": {
+                  "title": "Python",
+                  "id": 32
+                },
+                "6": {
+                  "title": "node.js",
+                  "id": 33
+                },
+                "7": {
+                  "title": "responsive design",
+                  "id": 36
+                },
+                "8": {
+                  "title": "research",
+                  "id": 40
+                }
+              },
+              "attr": {
+                "position": [
+                  284,
+                  -272,
+                  1
+                ],
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            },
+            "9.5": {
+              "title": "CSS frameworks",
+              "id": 7,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "9.25": {
+              "title": "SCSS",
+              "id": 20,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              111,
+              -193,
+              1
+            ],
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-2": {
+      "title": "LEADERSHIP",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "organisational guidelines",
+                  "id": 82
+                },
+                "2": {
+                  "title": "inspiring other people",
+                  "id": 83
+                },
+                "3": {
+                  "title": "convincing argumentation",
+                  "id": 84
+                },
+                "4": {
+                  "title": "offering innovation",
+                  "id": 85
+                }
+              }
+            },
+            "2": {
+              "title": "open source products",
+              "id": 76
+            },
+            "3": {
+              "title": "embracing change",
+              "id": 77
+            },
+            "4": {
+              "title": "knowing when to innovate",
+              "id": 78
+            },
+            "5": {
+              "title": "kaizen",
+              "id": 79
+            },
+            "6": {
+              "title": "suggesting solutions",
+              "id": 80
+            },
+            "7": {
+              "title": "knowing when to withdraw",
+              "id": 81
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  }
+}
