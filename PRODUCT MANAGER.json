@@ -1,0 +1,377 @@
+{
+  "title": "PRODUCT MANAGER",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "PRODUCT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "attracting new custimers",
+                  "id": 38
+                },
+                "2": {
+                  "title": "knowledge of good UI / UX practices",
+                  "id": 47
+                },
+                "3": {
+                  "title": "personas",
+                  "id": 48
+                },
+                "4": {
+                  "title": "understanding WCMC' s existing products",
+                  "id": 49
+                },
+                "5": {
+                  "title": "brand management",
+                  "id": 50
+                },
+                "6": {
+                  "title": "knowledge of conservation domain",
+                  "id": 51
+                },
+                "7": {
+                  "title": "horizon scanning",
+                  "id": 52
+                }
+              }
+            },
+            "2": {
+              "title": "quality assurance",
+              "id": 36
+            },
+            "3": {
+              "title": "client interface",
+              "id": 37
+            },
+            "4": {
+              "title": "identifying gaps in market",
+              "id": 39
+            },
+            "5": {
+              "title": "marketable solutions",
+              "id": 40
+            },
+            "6": {
+              "title": "managing client expectations",
+              "id": 42
+            },
+            "7": {
+              "title": "translation of requirements",
+              "id": 43
+            },
+            "8": {
+              "title": "market awareness (tools, products)",
+              "id": 44
+            },
+            "9": {
+              "title": "specs",
+              "id": 45
+            },
+            "10": {
+              "title": "vision for final product",
+              "id": 46
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "2": {
+      "title": "PROJECT",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "agile evangelist",
+                  "id": 73
+                },
+                "2": {
+                  "title": "release management",
+                  "id": 74
+                },
+                "3": {
+                  "title": "user interviews / testing",
+                  "id": 75
+                }
+              }
+            },
+            "2": {
+              "title": "stakeholder management",
+              "id": 65
+            },
+            "3": {
+              "title": "planning",
+              "id": 66
+            },
+            "4": {
+              "title": "preventing scope creep",
+              "id": 67
+            },
+            "5": {
+              "title": "protecting developers",
+              "id": 68
+            },
+            "6": {
+              "title": "backlog grooming",
+              "id": 69
+            },
+            "7": {
+              "title": "success metrics",
+              "id": 70
+            },
+            "8": {
+              "title": "agile processes",
+              "id": 71
+            },
+            "9": {
+              "title": "budgets",
+              "id": 72
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "-1": {
+      "title": "SPECIALISM",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "wireframing / UX design skills",
+                  "id": 27
+                },
+                "2": {
+                  "title": "user testing",
+                  "id": 28
+                },
+                "3": {
+                  "title": "prototyping",
+                  "id": 29
+                },
+                "4": {
+                  "title": "estimation",
+                  "id": 30
+                },
+                "5": {
+                  "title": "automated testing (scripting)",
+                  "id": 31
+                },
+                "6": {
+                  "title": "understanding of traditional PM techniques",
+                  "id": 32
+                },
+                "7": {
+                  "title": "sales + marketing",
+                  "id": 33
+                },
+                "8": {
+                  "title": "process design",
+                  "id": 34
+                },
+                "9": {
+                  "title": "code review",
+                  "id": 35
+                }
+              }
+            },
+            "2": {
+              "title": "architecture",
+              "id": 15
+            },
+            "3": {
+              "title": "database schema / mapping work",
+              "id": 16
+            },
+            "4": {
+              "title": "SEO",
+              "id": 17
+            },
+            "5": {
+              "title": "ownership + overall responsibility",
+              "id": 18
+            },
+            "7": {
+              "title": "SCRUM",
+              "id": 20
+            },
+            "8": {
+              "title": "business intelligence",
+              "id": 21
+            },
+            "9": {
+              "title": "scalability",
+              "id": 22
+            },
+            "10": {
+              "title": "agile contract design",
+              "id": 23
+            },
+            "11": {
+              "title": "kanban / scrum",
+              "id": 24
+            },
+            "13": {
+              "title": "outsourcing",
+              "id": 26
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-2": {
+      "title": "LEADERSHIP",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "CORE SKILLS",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "BEYOND CORE SKILLS",
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "coaching",
+                  "id": 60
+                },
+                "2": {
+                  "title": "idea management / potential new work",
+                  "id": 61
+                },
+                "3": {
+                  "title": "integrity",
+                  "id": 62
+                },
+                "4": {
+                  "title": "high level decision making",
+                  "id": 63
+                },
+                "5": {
+                  "title": "client credibility / influence",
+                  "id": 64
+                }
+              }
+            },
+            "2": {
+              "title": "diplomacy (saying no)",
+              "id": 53
+            },
+            "3": {
+              "title": "client feedback",
+              "id": 54
+            },
+            "4": {
+              "title": "maintaining focus",
+              "id": 55
+            },
+            "5": {
+              "title": "effective communication",
+              "id": 56
+            },
+            "6": {
+              "title": "motivation (team focus)",
+              "id": 57
+            },
+            "7": {
+              "title": "encouraging broadening of tech capabilities",
+              "id": 58
+            },
+            "8": {
+              "title": "escalation",
+              "id": 59
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  },
+  "links": []
+}
